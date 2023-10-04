@@ -1,2 +1,2 @@
-# load my scripts
-# use https://krnl.ca or https://x.synapse.to/
+# join discord to get loadstring
+# https://discord.gg/4DY2mEzB
